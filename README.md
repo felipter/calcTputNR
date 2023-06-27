@@ -7,4 +7,4 @@ python main.py
 
 Logo após é precisar entrar com os parâmetros para realizar o cálculo.
 
-Link do video: https://youtu.be/gSfFpPbJ-fU
+Link do video:
